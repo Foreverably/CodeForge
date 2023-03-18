@@ -10,8 +10,8 @@ CodeForge is primarily used for those who would want a easy way to code in LUA.
 
 **All of these Dependencies are required for CodeForge to work properly**
 
-- [Edge Webview runtime ( direct download )](https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/c37ab6cc-86af-417e-a4d5-f9bfa9815bd6/MicrosoftEdgeWebView2RuntimeInstallerX86.exe)
-- [dotNET Framework (installed on windows 10 by default)](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net472-web-installer)
+- [Edge Webview runtime ( **direct download** )](https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/c37ab6cc-86af-417e-a4d5-f9bfa9815bd6/MicrosoftEdgeWebView2RuntimeInstallerX86.exe)
+- [dotNET Framework ( **installed on windows 10 by default** )](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net472-web-installer)
 - x64 computer **(windows 11+ only)**
 
 ## Supported Operating Systems
