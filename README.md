@@ -27,3 +27,9 @@ CodeForge is primarily used for those who would want a easy way to code in LUA.
 
 - x32 will not be released as most computers run x64-x86
 - x64 will be updated from now on
+
+## Rounded Corners support
+
+- Windows 11 21h2
+- Windows 11 22h2
+- Windows 10 21h2(buttons and UI Components only)
