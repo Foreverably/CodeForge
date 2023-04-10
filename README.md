@@ -32,4 +32,4 @@ CodeForge is primarily used for those who would want a easy way to code in LUA.
 
 - Windows 11 21h2
 - Windows 11 22h2
-- Windows 10 21h2(buttons and UI Components only)
+- Windows 10 21h2 (buttons and UI Components only)
